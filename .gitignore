@@ -1,0 +1,12 @@
+# Ignore all files by default
+*
+
+# Allow Python and Jupyter Notebook files
+!*.py
+!*.ipynb
+
+# Ignore all PNG files by default
+*.png
+
+# Uncomment the line below to allow specific PNG files when needed
+# !specific_file.png
